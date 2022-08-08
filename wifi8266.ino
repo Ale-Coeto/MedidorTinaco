@@ -5,7 +5,7 @@
 #include <ESP8266mDNS.h>
 
   //Datos de internet
-String ssid = "ale";
+String ssid = "xxx";
 String password = "12345678";
 WiFiServer servidor(80); 
 
